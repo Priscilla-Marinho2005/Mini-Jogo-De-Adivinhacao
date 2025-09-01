@@ -1,11 +1,11 @@
 # MINI JOGO DE ADVINHAÇÃO DE NÚMEROS:
 ### Objetivo: Desenvolver um jogo simples de adivinhação de números.
 - Requesistos:
-• O sistema deve gerar um número secreto entre 1 e 100.
-• O jogador terá 10 tentativas para acertar.
-• A cada tentativa:
-    • O jogador insere um número.
-    • O sistema responde se o número é maior, menor ou igual ao
+- O sistema deve gerar um número secreto entre 1 e 100.
+- O jogador terá 10 tentativas para acertar.
+- A cada tentativa:
+    - O jogador insere um número.
+    - O sistema responde se o número é maior, menor ou igual ao
 número secreto.
 • Se acertar, mostrar mensagem de parabéns e quantas tentativas
 foram usadas.
